@@ -528,6 +528,6 @@ body {
 
 Host your portfolio. Put all your projects and twitter, linkedin and other details.
 
-GitHub Repository -
+GitHub Repository - https://github.com/MarkVed17/portfolio-website
 
-Portfolio Website -
+Portfolio Website - https://vedantlahane.netlify.app/
