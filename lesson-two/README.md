@@ -596,3 +596,13 @@ Solution:
 Check all the above content to know the entire thing.
 
 ---
+
+# assignment for pointThree
+
+1. "do you know VEDANT?" quiz
+     * GitHub Repository - https://github.com/MarkVed17/do-you-know-VEDANT-quiz
+     * Quiz link - https://replit.com/@VedantLahane/End-Game?embed=1&output=1
+
+2. marvel fandom quiz
+     * GitHub Repository - https://github.com/MarkVed17/marvel-fandom-quiz
+     * Quiz link - https://replit.com/@VedantLahane/marvel-fandom-quiz?embed=1&output=1
