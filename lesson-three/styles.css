@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #14b8a6;
+  --primary-color: #0284c7;
   --dark-gray: #6b7280;
   --off-white: #f3f4f6;
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin: 0px;
   max-width: 700px;
   margin: auto;
@@ -165,4 +165,12 @@ hr {
   margin: auto;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+}
+
+.FYI-bg {
+  background-color: #e8f36d;
+}
+
+.Moment-bg {
+  background-color: #e8f36d;
 }
